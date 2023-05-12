@@ -1,32 +1,29 @@
-bartosz,moszczyński,dzień świra,chicken tikka masala,kocia kawiarnia,synthwave
-jan,kowalski,drive,kotlet schabowy,kocia kawiarnia
-adrian,krzyżanowski,matrix,kotlet schabowy,złote tarasy,rap
-Adam,Nowak, Pulp Fiction, Sushi, Stare Miasto, Rock
-Katarzyna,Kowalska, Titanic, Pizza, Łazienki Królewskie, Pop
-Janusz,Kaczmarek, Forrest Gump, Burger, Muzeum Fryderyka Chopina, Jazz
-Aleksandra,Lewandowska, The Shawshank Redemption, Sushi, Plac Zamkowy, R&B
-Mateusz,Nowak, The Godfather, Pizza, Muzeum Narodowe, Hip-hop
-Joanna,Kowalczyk, Star Wars, Sushi, Zamek Ujazdowski, Metal
-Marcin,Kowalski, Jurassic Park, Burger, Pałac Kultury i Nauki, Rock
-Ewa,Jankowska, The Lord of the Rings, Pizza, Wilanów, Klasyczna
-Tomasz,Kowalczyk, Avengers, Sushi, Stadion Narodowy, Pop
-Karolina,Nowakowska, The Lion King, Burger, Łazienki Królewskie, Pop
-Piotr,Kaczmarek, The Matrix, Sushi, Muzeum Fryderyka Chopina, Elektroniczna
-Agata,Kowalczyk, Harry Potter, Pizza, Zamek Ujazdowski, Pop
-Jakub,Nowakowski, Inception, Burger, Plac Zamkowy, Rock
-Marta,Kaczor, The Dark Knight, Sushi, Wilanów, Pop
-Krzysztof,Kowal, Schindler's List, Pizza, Muzeum Narodowe, Klasyczna
-Aleksander,Nowak, Forrest Gump, Sushi, Stare Miasto, Rock
-Małgorzata,Kowalska, Titanic, Pizza, Łazienki Królewskie, Pop
-Adrian,Kaczmarek, The Shawshank Redemption, Burger, Muzeum Fryderyka Chopina, Jazz
-Karolina,Lewandowska, Star Wars, Sushi, Zamek Ujazdowski, Metal
-Bartosz,Kowalczyk, Jurassic Park, Pizza, Pałac Kultury i Nauki, Rock
-Anna,Nowakowska, The Lord of the Rings, Sushi, Wilanów, Klasyczna
-Grzegorz,Kaczor, Avengers, Burger, Stadion Narodowy, Pop
-Maria,Kowalczyk, The Lion King, Pizza, Łazienki Królewskie, Pop
-Michał,Nowakowski, The Matrix, Sushi, Muzeum Fryderyka Chopina, Elektroniczna
-Martyna,Kowalska, Harry Potter, Burger, Zamek Ujazdowski, Pop
-Łukasz,Kowal, Inception, Pizza, Plac Zamkowy, Rock
-Weronika,Nowak, The Dark Knight, Sushi, Wilanów, Pop
-Mateusz,Kaczmarek, Schindler's List, Burger, Muzeum Narodowe, Klasyczna
-Justyna,Kowalczyk, Forrest Gump, Pizza, Stare Miasto, Pop
+Adam,Nowak,Pulp Fiction,Sushi,Stare Miasto,Rock,19
+Katarzyna,Kowalska,Titanic,Pizza,Łazienki Królewskie,Pop,23
+Janusz,Kaczmarek,Forrest Gump,Burger,Muzeum Fryderyka Chopina,Jazz,20
+Aleksandra,Lewandowska,The Shawshank Redemption,Sushi,Plac Zamkowy,R&B,21
+Mateusz,Nowak,The Godfather,Pizza,Muzeum Narodowe,Hip-hop,22
+Joanna,Kowalczyk,Star Wars,Sushi,Zamek Ujazdowski,Metal,19
+Marcin,Kowalski,Jurassic Park,Burger,Pałac Kultury i Nauki,Rock,23
+Ewa,Jankowska,The Lord of the Rings,Pizza,Wilanów,Klasyczna,18
+Tomasz,Kowalczyk,Avengers,Sushi,Stadion Narodowy,Pop,22
+Karolina,Nowakowska,The Lion King,Burger,Łazienki Królewskie,Pop,18
+Piotr,Kaczmarek,The Matrix,Sushi,Muzeum Fryderyka Chopina,Elektroniczna,19
+Agata,Kowalczyk,Harry Potter,Pizza,Zamek Ujazdowski,Pop,23
+Jakub,Nowakowski,Inception,Burger,Plac Zamkowy,Rock,20
+Marta,Kaczor,The Dark Knight,Sushi,Wilanów,Pop,19
+Krzysztof,Kowal,Schindler's List,Pizza,Muzeum Narodowe,Klasyczna,22
+Aleksander,Nowak,Forrest Gump,Sushi,Stare Miasto,Rock,21
+Małgorzata,Kowalska,Titanic,Pizza,Łazienki Królewskie,Pop,18
+Adrian,Kaczmarek,The Shawshank Redemption,Burger,Muzeum Fryderyka Chopina,Jazz,23
+Karolina,Lewandowska,Star Wars,Sushi,Zamek Ujazdowski,Metal,19
+Bartosz,Kowalczyk,Jurassic Park,Pizza,Pałac Kultury i Nauki,Rock,21
+Anna,Nowakowska,The Lord of the Rings,Sushi,Wilanów,Klasyczna,18
+Grzegorz,Kaczor,Avengers,Burger,Stadion Narodowy,Pop,22
+Maria,Kowalczyk,The Lion King,Pizza,Łazienki Królewskie,Pop,20
+Michał,Nowakowski,The Matrix,Sushi,Muzeum Fryderyka Chopina,Elektroniczna,19
+Martyna,Kowalska,Harry Potter,Burger,Zamek Ujazdowski,Pop,23
+Łukasz,Kowal,Inception,Pizza,Plac Zamkowy,Rock,20
+Weronika,Nowak,The Dark Knight,Sushi,Wilanów,Pop,19
+Mateusz,Kaczmarek,Schindler's List,Burger,Muzeum Narodowe,Klasyczna,21
+Justyna,Kowalczyk,Forrest Gump,Pizza,Stare Miasto,Pop,18
