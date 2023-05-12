@@ -1,7 +1,6 @@
-Imie,Nazwisko,Filmy,Jedzenie,Miejsca,Muzyka
-bartosz,moszczyński,dzień świra,chicken tikka masala,kocia kawiarnia,synthwave
+bartosz moszczyński,dzień świra,chicken tikka masala,kocia kawiarnia,synthwave
 jan kowalski,drive,kotlet schabowy,kocia kawiarnia
-adrian,krzyżanowski,matrix,kotlet schabowy,złote tarasy,rap
+adrian krzyżanowski,matrix,kotlet schabowy,złote tarasy,rap
 Adam Nowak, Pulp Fiction, Sushi, Stare Miasto, Rock
 Katarzyna Kowalska, Titanic, Pizza, Łazienki Królewskie, Pop
 Janusz Kaczmarek, Forrest Gump, Burger, Muzeum Fryderyka Chopina, Jazz
