@@ -1,29 +1,17 @@
-Adam,Nowak,Pulp Fiction,Sushi,Stare Miasto,Rock,19
-Katarzyna,Kowalska,Titanic,Pizza,Łazienki Królewskie,Pop,23
-Janusz,Kaczmarek,Forrest Gump,Burger,Muzeum Fryderyka Chopina,Jazz,20
-Aleksandra,Lewandowska,The Shawshank Redemption,Sushi,Plac Zamkowy,R&B,21
-Mateusz,Nowak,The Godfather,Pizza,Muzeum Narodowe,Hip-hop,22
-Joanna,Kowalczyk,Star Wars,Sushi,Zamek Ujazdowski,Metal,19
-Marcin,Kowalski,Jurassic Park,Burger,Pałac Kultury i Nauki,Rock,23
-Ewa,Jankowska,The Lord of the Rings,Pizza,Wilanów,Klasyczna,18
-Tomasz,Kowalczyk,Avengers,Sushi,Stadion Narodowy,Pop,22
-Karolina,Nowakowska,The Lion King,Burger,Łazienki Królewskie,Pop,18
-Piotr,Kaczmarek,The Matrix,Sushi,Muzeum Fryderyka Chopina,Elektroniczna,19
-Agata,Kowalczyk,Harry Potter,Pizza,Zamek Ujazdowski,Pop,23
-Jakub,Nowakowski,Inception,Burger,Plac Zamkowy,Rock,20
-Marta,Kaczor,The Dark Knight,Sushi,Wilanów,Pop,19
-Krzysztof,Kowal,Schindler's List,Pizza,Muzeum Narodowe,Klasyczna,22
-Aleksander,Nowak,Forrest Gump,Sushi,Stare Miasto,Rock,21
-Małgorzata,Kowalska,Titanic,Pizza,Łazienki Królewskie,Pop,18
-Adrian,Kaczmarek,The Shawshank Redemption,Burger,Muzeum Fryderyka Chopina,Jazz,23
-Karolina,Lewandowska,Star Wars,Sushi,Zamek Ujazdowski,Metal,19
-Bartosz,Kowalczyk,Jurassic Park,Pizza,Pałac Kultury i Nauki,Rock,21
-Anna,Nowakowska,The Lord of the Rings,Sushi,Wilanów,Klasyczna,18
-Grzegorz,Kaczor,Avengers,Burger,Stadion Narodowy,Pop,22
-Maria,Kowalczyk,The Lion King,Pizza,Łazienki Królewskie,Pop,20
-Michał,Nowakowski,The Matrix,Sushi,Muzeum Fryderyka Chopina,Elektroniczna,19
-Martyna,Kowalska,Harry Potter,Burger,Zamek Ujazdowski,Pop,23
-Łukasz,Kowal,Inception,Pizza,Plac Zamkowy,Rock,20
-Weronika,Nowak,The Dark Knight,Sushi,Wilanów,Pop,19
-Mateusz,Kaczmarek,Schindler's List,Burger,Muzeum Narodowe,Klasyczna,21
-Justyna,Kowalczyk,Forrest Gump,Pizza,Stare Miasto,Pop,18
+film,jedzenie,miejsca,muzyka,wiek
+Gwiezdne Wojny,pizza,Łazienki,disco polo,22
+Ojciec Chrzestny,chińszczyzna,Pałac Kultury,Jazz,19
+The Matrix,Sushi,Muzeum Fryderyka Chopina,Elektroniczna,19
+Incepcja,Sushi,Paryż,Alternatywna,23
+Zielona Mila,Pizza,Londyn,Pop,21
+Matrix,Burgery,Nowy Jork,Hip-hop,20
+Nietykalni,Makaron,Barcelona,Jazz,19
+Podziemny krąg,Tacos,Tokio,Rock,24
+Władca Pierścieni: Powrót króla,Sushi,Nowy Zelandia,Soundtracki filmowe,21
+Forrest Gump,Sushi,San Francisco,Klasyczna,23
+Incepcja,Sushi,Paryż,Alternatywna,19
+Wielki Gatsby,Pizza,Las Vegas,Pop,20
+Siedem,Burger,Nowy Jork,Alternatywna,18
+Avengers: Wojna bez granic,Sushi,Los Angeles,Rock,22
+La La Land,Makaron,Paryż,Pop,21
+Interstellar,Sushi,Kosmos,Ambient,21
