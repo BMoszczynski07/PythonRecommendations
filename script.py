@@ -16,6 +16,13 @@ nowy_student = Student("Gwiezdne Wojny", "Kurczak curry",
                        "Złote Tarasy", "Klasyczna", 22)
 
 # TODO: tutaj pobieramy tuple z rekomendowanymi gatunkami muzyki dla nowego studenta
-recommended = nowy_student.recommend()
+#recommended = nowy_student.recommend()
 
 # print(TODO: Tutaj wywołaj pętle, która przeiteruje przez otrzymaną tuple i wyświetli polecane gatunki muzyki)
+
+recommended = ""
+for item in nowy_student.recommend():
+    recommended += item.__getitem__(0)
+    recommended += ", "
+
+print(f"rekomenedacje: {recommended}")

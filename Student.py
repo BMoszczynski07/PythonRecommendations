@@ -28,8 +28,15 @@ class Student:
             matching_intrerests.append(interest[3]) 
 
         music_counter = Counter(matching_intrerests)
+        most_common = []
+        for item in music_counter.most_common():
+            # if item.__getitem__(1) != music_counter.most_common()[0].__getitem__(1):
+            #     continue
 
-        print(music_counter)
+            most_common.append(item)
+
+        return most_common
+
 
     def add_student_interests(self):
         student_interests = [self.film,
