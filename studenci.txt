@@ -1,7 +1,6 @@
 film,jedzenie,miejsca,muzyka,wiek
 Gwiezdne Wojny,pizza,Łazienki,disco polo,22
 Ojciec Chrzestny,chińszczyzna,Pałac Kultury,Jazz,19
-The Matrix,Sushi,Muzeum Fryderyka Chopina,Elektroniczna,19
 Incepcja,Sushi,Paryż,Alternatywna,23
 Zielona Mila,Pizza,Londyn,Pop,21
 Matrix,Burgery,Nowy Jork,Hip-hop,20
@@ -15,3 +14,74 @@ Siedem,Burger,Nowy Jork,Alternatywna,18
 Avengers: Wojna bez granic,Sushi,Los Angeles,Rock,22
 La La Land,Makaron,Paryż,Pop,21
 Interstellar,Sushi,Kosmos,Ambient,21
+Django,Sushi,Nowy Orlean,Jazz,23
+Pulp Fiction,Pizza,Los Angeles,Hip-hop,24
+Człowiek z blizną,Kebab,Chicago,Rock,19
+Władca Pierścieni: Drużyna Pierścienia,Sushi,Nowa Zelandia,Soundtracki filmowe,21
+Władca Pierścieni: Powrót króla,Sushi,Nowa Zelandia,Soundtracki filmowe,23
+Skazani na Shawshank,Burgery,Boston,Blues,24
+Grawitacja,Sushi,Kosmos,Ambient,19
+Gladiator,Pizza,Rzym,Rock,24
+Django,Sushi,Nowy Orlean,Jazz,23
+Pulp Fiction,Pizza,Los Angeles,Hip-hop,23
+Człowiek z blizną,Kebab,Chicago,Rock,23
+Władca Pierścieni: Drużyna Pierścienia,Sushi,Nowa Zelandia,Soundtracki filmowe,24
+Władca Pierścieni: Powrót króla,Sushi,Nowa Zelandia,Soundtracki filmowe,23
+Skazani na Shawshank,Burgery,Boston,Blues,21
+Grawitacja,Sushi,Kosmos,Ambient,23
+Gladiator,Pizza,Rzym,Rock,18
+Zapach kobiety,Sushi,Paryż,R&B,22
+Fight Club,Burgery,Nowy Jork,Alternatywna,24
+Ojciec chrzestny,Sushi,Nowy Jork,Klasyczna,23
+Whiplash,Pizza,Nowy Jork,Jazz,21
+Szósty zmysł,Sushi,Filadelfia,Pop,19
+Mroczny Rycerz,Makaron,Gotham City,Rock,23
+Incepcja,Sushi,Paryż,Alternatywna,22
+Zielona Mila,Pizza,Londyn,Pop,20
+Matrix,Burgery,Nowy Jork,Hip-hop,21
+Nietykalni,Makaron,Barcelona,Jazz,23
+Podziemny krąg,Tacos,Tokio,Rock,19
+Pulp Fiction,Sushi,Stare Miasto,Rock,19
+Titanic,Pizza,Łazienki Królewskie,Pop,23
+Forrest Gump,Burger,Muzeum Fryderyka Chopina,Jazz,20
+The Shawshank Redemption,Sushi,Plac Zamkowy,R&B,21
+The Godfather,Pizza,Muzeum Narodowe,Hip-hop,22
+Star Wars,Sushi,Zamek Ujazdowski,Metal,19
+Jurassic Park,Burger,Pałac Kultury i Nauki,Rock,23
+The Lord of the Rings,Pizza,Wilanów,Klasyczna,18
+Avengers,Sushi,Stadion Narodowy,Pop,22
+The Lion King,Burger,Łazienki Królewskie,Pop,18
+The Matrix,Sushi,Muzeum Fryderyka Chopina,Elektroniczna,19
+Harry Potter,Pizza,Zamek Ujazdowski,Pop,23
+Inception,Burger,Plac Zamkowy,Rock,20
+The Dark Knight,Sushi,Wilanów,Pop,19
+Schindler's List,Pizza,Muzeum Narodowe,Klasyczna,22
+Forrest Gump,Sushi,Stare Miasto,Rock,21
+Titanic,Pizza,Łazienki Królewskie,Pop,18
+The Shawshank Redemption,Burger,Muzeum Fryderyka Chopina,Jazz,23
+Star Wars,Sushi,Zamek Ujazdowski,Metal,19
+Jurassic Park,Pizza,Pałac Kultury i Nauki,Rock,21
+The Lord of the Rings,Sushi,Wilanów,Klasyczna,18
+Avengers,Burger,Stadion Narodowy,Pop,22
+The Lion King,Pizza,Łazienki Królewskie,Pop,20
+The Matrix,Sushi,Muzeum Fryderyka Chopina,Elektroniczna,19
+Harry Potter,Burger,Zamek Ujazdowski,Pop,23
+Inception,Pizza,Plac Zamkowy,Rock,20
+The Dark Knight,Sushi,Wilanów,Pop,19
+Schindler's List,Burger,Muzeum Narodowe,Klasyczna,21
+Forrest Gump,Pizza,Stare Miasto,Pop,18
+Gwiezdne Wojny,pizza,Łazienki,disco polo,22
+Ojciec Chrzestny,chińszczyzna,Pałac Kultury,Jazz,19
+The Matrix,Sushi,Muzeum Fryderyka Chopina,Elektroniczna,19
+Incepcja,Sushi,Paryż,Alternatywna,23
+Zielona Mila,Pizza,Londyn,Pop,21
+Matrix,Burgery,Nowy Jork,Hip-hop,20
+Nietykalni,Makaron,Barcelona,Jazz,19
+Podziemny krąg,Tacos,Tokio,Rock,24
+Władca Pierścieni: Powrót króla,Sushi,Nowy Zelandia,Soundtracki filmowe,21
+Forrest Gump,Sushi,San Francisco,Klasyczna,23
+Incepcja,Sushi,Paryż,Alternatywna,19
+Wielki Gatsby,Pizza,Las Vegas,Pop,20
+Siedem,Burger,Nowy Jork,Alternatywna,18
+Avengers: Wojna bez granic,Sushi,Los Angeles,Rock,22
+La La Land,Makaron,Paryż,Pop,21

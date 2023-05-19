@@ -5,6 +5,8 @@ with open("studenci.txt", "r", encoding="utf-8") as students:
 
     for student in students:
         student_interests = student.strip().split(',')
+        if student_interests[0] == '':
+            break
 
         next_student = Student(*student_interests)
 

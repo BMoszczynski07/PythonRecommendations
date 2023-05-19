@@ -9,7 +9,8 @@ class Student:
         self.jedzenie = jedzenie.lower()
         self.miejsca = miejsca.lower()
         self.muzyka = muzyka.lower()
-        self.wiek = wiek
+        self.wiek = int(wiek)
+
         self.add_student_interests()
 
     def recommend(self):
@@ -17,11 +18,22 @@ class Student:
         # TODO: 2. Usuń z listy wyniki, w których ulubiona muzyka jest taka sama jak ulubiona muzyka analizowanego studenta w self.muzyka
         # TODO: 3. Za pomocą Countera policz w tablicy częstotliwość występowania poszczególnych gatunków muzyki w liście
         # TODO: 4. Na końcu w funkcji zwróć tuple o wartościach (<gatunek_muzyki>, <częstotliwość_występowania>)
-        pass
+        matching_intrerests = []
+        for interest in students_interests:
+            if interest[4] != self.wiek:
+                continue
+            if interest[3] == self.muzyka:
+                continue
+
+            matching_intrerests.append(interest[3]) 
+
+        music_counter = Counter(matching_intrerests)
+
+        print(music_counter)
 
     def add_student_interests(self):
         student_interests = [self.film,
-                             self.jedzenie, self.miejsca, self.muzyka]
+                             self.jedzenie, self.miejsca, self.muzyka, self.wiek]
 
         students_interests.append(student_interests)
 
